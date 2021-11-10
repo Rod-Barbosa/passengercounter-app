@@ -1,6 +1,6 @@
 # Scrimba Frontend Career Path - (Module/App name here)
 
-This is a solution to the [Scrimba Frontend Career Path - (Module/App name here)](https://scrimba.com/learn/frontend).
+This is a solution to the [Scrimba Frontend Career Path - (Module 3 - Passenger Counter App)](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
